@@ -1,0 +1,20 @@
+export const COLORS = {
+    green100: "#3AAF4A",
+    green200: "#9ed8a4",
+    green300: "#40AE49",
+    green400: "#E3FFE7",
+    green500: "#ABEBC6",
+    green600: "#345134",
+    green700: "#12312B",
+    red100: "#ec6d5e",
+    red200: "#F491A3",
+    blue100: "#37ace7",
+    blue200: "#3ABEFF",
+    gray100: "#B8B8B8",
+    gray200: "#F0F0F0",
+    gray300: "#757575",
+    gray400: "#D6D6D6",
+    black: "#000000",
+    white: "#ffffff",
+    graylight:'#D0D0D0'
+  };
