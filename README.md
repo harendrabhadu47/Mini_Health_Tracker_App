@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1OnCVYVqqRq1CM8FEnbeA106JqMFlLuON/view?usp=shari
 Mainly, bottom tab navigation has been used in the app, first tab is Home or second WeeklyOverview,
 
 # Home Screen
-The landing page of this app is the Home screen where data of today's logs is shown. There is an Add button on the home page which navigates us to the AddDailyLos screen.
+The landing page of this app is the Home screen where data of today's logs is shown. There is an Add button on the home page which navigates us to the AddDailyLogs screen.
 
 # AddDailyLogs Screen
 In AddDailyLogs logs data is updated/added or click on save to navigate back to the home page.
